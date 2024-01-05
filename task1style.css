@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #d4c94f;
+  color: #131212;
+}
+
+header {
+  background-color: #17e3ea;
+  color: #201c46;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  color: #0a74d6;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #0a0303;
+  color: #020afffe;
+}
+
+.para {
+  background: #e2dce13c;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
